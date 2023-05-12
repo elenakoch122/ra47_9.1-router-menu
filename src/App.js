@@ -3,6 +3,7 @@ import './App.css';
 import Menu from './components/Menu';
 import Card from './components/Card';
 import { list } from './data/list';
+import Page404 from './components/Page404';
 
 export default function App() {
   return (
@@ -14,6 +15,7 @@ export default function App() {
           <Route path="/drift" element={<Card item={list.drift} />} />
           <Route path="/timeattack" element={<Card item={list.timeAttack} />} />
           <Route path="/forza" element={<Card item={list.forza} />} />
+          <Route path="*" element={<Page404 />} />
         </Routes>
       </div>
     </div>

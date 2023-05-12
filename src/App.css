@@ -84,3 +84,11 @@ body {
   opacity: 1;
   border-bottom-color: hsl(120, 50%, 50%);
 }
+
+.home {
+  color: #fff;
+}
+
+.home:hover {
+  color: hsl(60, 50%, 50%);
+}
