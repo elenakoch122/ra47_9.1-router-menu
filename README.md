@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5g66y62fmp1ipnei?svg=true)](https://ci.appveyor.com/project/elenakoch122/ra47-9-1-router-menu)
+
 GitHub Pages: https://elenakoch122.github.io/ra47_9.1-router-menu
 
 Навигационное меню
